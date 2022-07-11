@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Online Course on machine learning for image processing
 
-You can use the [editor on GitHub](https://github.com/fishsizeproject/Course-MLforImageProcessing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Please join us for an online course to learn about 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. concepts of Deep learning, Convolutional Neural Networks and computer vision
+2. how to pre-process and pre-annotate images to accelerate your ML projects 
+3. how to apply data augmentation techiques 
+4. how to build an image classification model with your own or example data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The online course will be organised as a series of recorded lectures, exercises and group work, combined with two weekly live Q&A sessions adapted to Europe-North America and Australia-Asia-Europe time zones.
 
-```markdown
-Syntax highlighted code block
+The course is led by Catarina Silva (Nature Research Centre, Lithuania) and Asta Audzijonyte (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fishsizeproject/Course-MLforImageProcessing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Participation is free. If you are interested in this course and would like to continue receiving information about it, please contact us at info@fishsizeproject.org or comment below.
