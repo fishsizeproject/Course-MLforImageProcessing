@@ -1,23 +1,10 @@
-## Online Course on machine learning for image processing
-
-
-
-
 ---
-title: "Online course"
-site: distill::distill_website
+layout: default
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-```
-<center>
 
-__2022 September__
+**2022 September**
 
-## Machine learning for image processing   
 
 Please join us for an online course to learn about 
 
@@ -35,4 +22,3 @@ Participation is free.
 If you are interested in this course and would like to continue receiving information about it, please contact us at info@fishsizeproject.org 
 
 
-</center>
