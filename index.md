@@ -3,8 +3,9 @@ layout: default
 ---
 
 
-**2022 September**
-
+<p align=center> 
+  **2022 September**
+</p>
 
 Please join us for an online course to learn about 
 
