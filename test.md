@@ -1,6 +1,7 @@
 ---
-title: "Title"
+layout: default
 ---
+
 
 
 ## In preparation
