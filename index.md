@@ -20,11 +20,10 @@ The online course will be organised as a series of recorded lectures and exercis
 
 The course is led by [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/) (Nature Research Centre, Lithuania) and [Asta Audzijonyte](https://astaaudzi.com/) (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
 
-Participation is free. 
-If you are interested in this course and would like to receive more information about it, please contact us at _info@fishsizeproject.org_
+Participation is free. If you are interested in this course and would like to receive more information about it, please contact us at _info@fishsizeproject.org_
 
-<p></p>
-<p></p>
+<br/>
+<br/>
 
 <p align=center> 
   <b>Course overview</b>
