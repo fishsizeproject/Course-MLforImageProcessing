@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[**Course Overview**](index.md) > Introduction
+<sub>[Course Overview](index.md) > Introduction</sub>
 
 ## Introduction
 
