@@ -30,3 +30,10 @@ If you are interested in this course and would like to continue receiving inform
 </p>
 
 1.  [**Introduction**](introduction.md)
+2.  **Concepts of machine learning and computer vision**
+3.  **Intro Practice: Basics of computer vision with Python**
+4.  **Practice 1: Pre-processing images (framework step 2)**
+5.  **Practice 2: Images pre-annotation (framework step 3)**
+6.  **Practice 3: Data augmentation (framework step 5)**
+7.  **Practice 4: Model training (framework step 6)**
+8.  **Conclusion**
