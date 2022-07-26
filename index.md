@@ -21,19 +21,27 @@ The online course will be organised as a series of recorded lectures and exercis
 The course is led by [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/) (Nature Research Centre, Lithuania) and [Asta Audzijonyte](https://astaaudzi.com/) (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
 
 Participation is free. 
-If you are interested in this course and would like to continue receiving information about it, please contact us at _info@fishsizeproject.org_
+If you are interested in this course and would like to receive more information about it, please contact us at _info@fishsizeproject.org_
 
-
+<p></p>
+<p></p>
 
 <p align=center> 
   <b>Course overview</b>
 </p>
 
-1.  [**Introduction**](introduction.md)
-2.  **Concepts of machine learning and computer vision**
-3.  **Intro Practice: Basics of computer vision with Python**
-4.  **Practice 1: Pre-processing images (framework step 2)**
-5.  **Practice 2: Images pre-annotation (framework step 3)**
-6.  **Practice 3: Data augmentation (framework step 5)**
-7.  **Practice 4: Model training (framework step 6)**
-8.  **Conclusion**
+1.  [Introduction](introduction.md)
+
+2.  Concepts of machine learning and computer vision
+
+3.  Intro Practice: Basics of computer vision with Python
+
+4.  Practice 1: Pre-processing images (framework step 2)
+
+5.  Practice 2: Images pre-annotation (framework step 3)
+
+6.  Practice 3: Data augmentation (framework step 5)
+
+7.  Practice 4: Model training (framework step 6)
+
+8.  Conclusion
