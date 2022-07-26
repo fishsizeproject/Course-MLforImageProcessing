@@ -29,4 +29,4 @@ If you are interested in this course and would like to continue receiving inform
   <b>Course overview</b>
 </p>
 
-1.  [**Introduction**](test.md)
+1.  [**Introduction**](introduction.md)
