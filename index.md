@@ -12,7 +12,7 @@ In this online course you will learn about:
 
 1. concepts of deep learning, Convolutional Neural Networks (CNNs) and computer vision
 2. how to pre-process and pre-annotate images to accelerate your ML projects 
-3. how to apply data augmentation techiques 
+3. how to apply data augmentation techniques 
 4. how to build an image classification model with your own or example data
   
 
