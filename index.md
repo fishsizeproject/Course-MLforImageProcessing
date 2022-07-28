@@ -45,6 +45,7 @@ Participation is free. If you are interested in this course and would like to re
 
 8.  Conclusion
 
+<br/>
 
 ![logos](./images/logos_all.png)
 
