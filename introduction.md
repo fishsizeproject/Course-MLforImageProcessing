@@ -8,7 +8,7 @@ layout: default
 
 In this section you will find information on course contents, requirements and resources.
 
-The main **learning objectives** are to:
+The main **learning objectives** of this course are to:
 
  - Understand the fundamentals of Machine Learning (such as the difference between supervised and unsupervised Machine Learning),
 
