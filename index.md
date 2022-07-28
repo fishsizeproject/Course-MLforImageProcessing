@@ -44,3 +44,7 @@ Participation is free. If you are interested in this course and would like to re
 7.  Practice 4: Model training (framework step 6)
 
 8.  Conclusion
+
+
+![logos](./images/logos_all.png)
+
