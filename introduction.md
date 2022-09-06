@@ -55,6 +55,23 @@ Then go to Google Colab's home page [here](https://colab.research.google.com/).
 
 A home screen of Google Colab will appear and you can either open a new Python notebook, by clicking 'new notebook' on the bottom right corner, or click 'cancel' and go to a short tutorial on how to get started with Google colab.
 
+![colab screen](./images/colab_screen.png)
+
+<br/>
+
+
+## Github
+
+In this course, we will use an exammple dataset that is uploaded to github but you can also use your own dataset.
+
+Colab can load public github notebooks directly, with no required authorization step. 
+
+When you open the GitHub hosted notebook in Colab, it opens a new editable view of the notebook. You can run and modify the notebook directly without worrying about overwriting the source.
+
+After finishing the exercices, you will have to save your changes from within Colab. For this you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts. 
+
+To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
+
 <br/>
 
 ## Resources

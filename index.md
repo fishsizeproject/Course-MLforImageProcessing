@@ -4,7 +4,7 @@ layout: default
 
 
 <p align=center> 
-  <b>Available in September 2022</b>
+  <b>Available in October 2022</b>
 </p>
 
 
