@@ -28,36 +28,24 @@ It will be useful if course participants have basic programming experience, in P
 
 <br/>
 
-\## Video
+## Video
 
 *In preparation*
 
-```{=html}
-<!--<details open="" class="details-reset border rounded-2">
-  <summary class="px-3 py-2 border-bottom">
-    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
-    <path fill-rule="evenodd" d="..."></path>
-</svg>
-    <span aria-label="Video description dotnet-evergreen.mp4" class="m-1"></span>
-    <span class="dropdown-caret"></span>
-  </summary>
-  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" width="100%" height="auto">
-  </video>
-</details>-->
-```
+
 <br/>
 
 ## Google Colab
 
 For this course we will use Google Colab. Colab, or "Colaboratory", is a free, cloud-based environment similar to Jupyter's network environment that allows you to write and execute Python code in your browser without the need for installation and configuration. It also provides free access to GPUs.
 
-To start using Google Colab, you will need a Google account. Then go to Google Colab's home page [here](https://colab.research.google.com/) and you can start your own notebooks.
+To start using Google Colab, you will need a Google account. 
 
 We will share notebooks with you, which will allow you to create a copy in your own Google directory, and modify and use it for your own purposes.
 
-..When you open the GitHub hosted notebook in Colab, it opens a new editable view of the notebook. You can run and modify the notebook directly without worrying about overwriting the source.
+When you open the GitHub hosted notebook in Colab, it opens a new editable view of the notebook. You can run and modify the notebook directly without worrying about overwriting the source.
 
-A home screen of Google Colab will appear and you can either open a new Python notebook, by clicking 'new notebook' on the bottom right corner, or click 'cancel' and go to a short tutorial on how to get started with Google colab.
+You can also start your own notebook by going to Google Colab's home page [here](https://colab.research.google.com/) and clicking 'new notebook' on the bottom right corner. If you like you can also click 'cancel' and go to a short tutorial on how to get started with Google colab.
 
 <br/>
 
