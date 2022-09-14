@@ -56,9 +56,14 @@ It would be very interesting and exciting if course participants also bring thei
 
 *give instructions how to prepare the images*
 
+<br/>
+
+
 ## Discussion forum 
 
 Github account needed to post on the course website
+
+<br/>
 
 
 ## Github - check how much is needed. 
@@ -73,6 +78,10 @@ Colab can load public github notebooks directly, with no required authorization 
 After finishing the exercices, you will have to save your changes from within Colab. For this you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts.
 
 To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
+
+<br/>
+
+## VGG software
 
 <br/>
 
