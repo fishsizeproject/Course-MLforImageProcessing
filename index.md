@@ -31,9 +31,9 @@ Participation is free. If you are interested in this course and would like to re
 
 1.  [Introduction](introduction.md)
 
-2.  Concepts of machine learning and computer vision
+2.  [Concepts of machine learning and computer vision](2-ML-concepts.md)
 
-3.  Intro Practice: Basics of computer vision with Python
+3.  [Intro Practice: Basics of computer vision with Python](3-intro-practice.md)
 
 4.  Practice 1: Pre-processing images (framework step 2)
 
