@@ -16,7 +16,7 @@ In this online course you will learn about:
 4. how to build an image classification model with your own or example data
   
 
-The online course will be organised as a series of recorded lectures and exercises, combined with two live Q&A sessions adapted to Europe-North America and Australia-Asia-Europe time zones.
+The online course will be organised as a series of recorded lectures and exercises, combined with a live Q&A session.
 
 The course is led by [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/) (Nature Research Centre, Lithuania) and [Asta Audzijonyte](https://astaaudzi.com/) (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
 
