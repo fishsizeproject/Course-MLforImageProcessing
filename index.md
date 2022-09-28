@@ -37,7 +37,7 @@ Participation is free. If you are interested in this course and would like to re
 
 4.  [Practice 1: Pre-processing images (framework step 2)](4-practice-1.md)
 
-5.  Practice 2: Images pre-annotation and annotation (framework steps 3 and 4)
+5.  [Practice 2: Images pre-annotation and annotation (framework steps 3 and 4)](5-practice-2.md)
 
 6.  Practice 3: Data augmentation (framework step 5)
 
