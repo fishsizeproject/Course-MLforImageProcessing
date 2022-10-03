@@ -24,6 +24,6 @@ _In preparation_
 <br/>
 
 
-## Resources
+## Other Resources
 
-
+Book : [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) by Jan Erik Solem 
