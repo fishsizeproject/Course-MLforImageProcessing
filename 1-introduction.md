@@ -22,7 +22,7 @@ The main **learning objectives** of this course are to:
 
 <br/>
 
-Programming skills and Python
+## Programming skills and Python
 
 It will be useful if course participants have basic programming experience, in Python or R. The scripts used in the course are written in Python, but they are adapted to be user friendly and do not require prior Python knowledge to run them (you would naturally need Python knowledge to modify these scripts further). If you want to learn more about coding with Python a few useful tutorials of basic operations can be found [here](https://www.learnpython.org/) . You can also find a list of books [here](https://wiki.python.org/moin/IntroductoryBooks).
 
@@ -61,27 +61,18 @@ It would be very interesting and exciting if course participants also bring thei
 
 ## Discussion forum 
 
-Github account needed to post on the course website
+You will need a Github account to post your questions or ideas and join the discussion in the course Github page.
 
 <br/>
 
 
-## Github - check how much is needed. 
-
-Create an account to join the discussion. 
-We are keen to improve and advance this framework, so if you would like to collaborate on the FishSizeProject, please contact us
-
-In this course, we will use an exammple dataset that is uploaded to github but you can also use your own dataset.
-
-Colab can load public github notebooks directly, with no required authorization step.
+## Github 
 
 After finishing the exercices, you will have to save your changes from within Colab. For this you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts.
 
 To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
 
-<br/>
-
-## VGG software
+We are keen to improve and advance this framework, so if you would like to collaborate on the FishSizeProject, please contact us
 
 <br/>
 
