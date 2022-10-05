@@ -26,7 +26,7 @@ Attendees must have a good knowledge of the basic concepts and techniques of Pyt
 
 <br/>
 
- ## Video
+## Video
 
 _In preparation_
 
