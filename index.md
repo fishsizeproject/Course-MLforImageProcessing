@@ -3,7 +3,6 @@ layout: default
 ---
 ![fish_detected](./images/fish_detected.png)
 
-
 <p align=center> 
   <b>Available in October 2022</b>
 </p>
