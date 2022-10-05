@@ -52,3 +52,6 @@ _In preparation_
 
 <br/>
 
+## Resources
+
+add links to text with extra info

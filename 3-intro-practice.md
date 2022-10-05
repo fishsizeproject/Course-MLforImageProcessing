@@ -6,6 +6,9 @@ layout: default
 
 # Intro Practice: Basics of computer vision with Python
 
+add image from framekwork!!
+
+
 In this section we will use Python and computer vision libraries for basic image processing. You can access the notebook here:
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/fishsizeproject/Course-MLforImageProcessing/blob/dev/3-intro-practice.ipynb)
