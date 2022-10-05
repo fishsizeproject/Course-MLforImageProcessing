@@ -1,26 +1,29 @@
 ---
 layout: default
 ---
+![fish_detected](./images/fish_detected.png)
 
 
 <p align=center> 
-  <b>Available in September 2022</b>
+  <b>Available in October 2022</b>
 </p>
 
 
 In this online course you will learn about:
 
-1. concepts of deep learning, Convolutional Neural Networks (CNNs) and computer vision
+1. concepts of data science, machine learning (ML), computer vision, deep learning and Convolutional Neural Networks (CNNs)
 2. how to pre-process and pre-annotate images to accelerate your ML projects 
 3. how to apply data augmentation techniques 
 4. how to build an image classification model with your own or example data
   
 
-The online course will be organised as a series of recorded lectures and exercises, combined with two live Q&A sessions adapted to Europe-North America and Australia-Asia-Europe time zones.
+The online course will be organised as a series of recorded lectures and exercises using Python, combined with a live Q&A session.
 
-The course is led by [Catarina Silva](https://www.linkedin.com/in/catarina-ns-silva/) (Nature Research Centre, Lithuania) and [Asta Audzijonyte](https://astaaudzi.com/) (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
+The course is led by [Catarina Silva](https://catarinasilva.weebly.com/) (Nature Research Centre, Lithuania) and [Asta Audzijonyte](https://astaaudzi.com/) (Nature Research Centre, Lithuania & University of Tasmania, Australia). 
 
 Participation is free. If you are interested in this course and would like to receive more information about it, please contact us at _info@fishsizeproject.org_
+
+This course is using the framework described in this [publication](https://www.biorxiv.org/content/10.1101/2022.06.29.498112v1.abstract).
 
 <br/>
 <br/>
@@ -29,21 +32,23 @@ Participation is free. If you are interested in this course and would like to re
   <b>Course overview</b>
 </p>
 
-1.  [Introduction](introduction.md)
+A.  Introduction
 
-2.  Concepts of machine learning and computer vision
+B.  Concepts of machine learning and computer vision
 
-3.  Intro Practice: Basics of computer vision with Python
+C.  Intro Practice: Basics of computer vision with Python
 
-4.  Practice 1: Pre-processing images (framework step 2)
+D.  Practice 1: Pre-processing images
 
-5.  Practice 2: Images pre-annotation (framework step 3)
+E.  Practice 2: Images pre-annotation and annotation
 
-6.  Practice 3: Data augmentation (framework step 5)
+F.  Practice 3: Data augmentation
 
-7.  Practice 4: Model training (framework step 6)
+G.  Practice 4: Model training
 
-8.  Conclusion
+H.  Conclusion
+
+
 
 
 ![logos](./images/logos_all.png)
