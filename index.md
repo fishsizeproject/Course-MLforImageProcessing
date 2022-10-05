@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+ADD IMAGE WITH BB ON FISH
 
 
 <p align=center> 
@@ -22,6 +23,8 @@ The course is led by [Catarina Silva](https://www.linkedin.com/in/catarina-ns-si
 
 Participation is free. If you are interested in this course and would like to receive more information about it, please contact us at _info@fishsizeproject.org_
 
+This course is using the framework described in this [publication](https://www.biorxiv.org/content/10.1101/2022.06.29.498112v1.abstract).
+
 <br/>
 <br/>
 
@@ -29,21 +32,23 @@ Participation is free. If you are interested in this course and would like to re
   <b>Course overview</b>
 </p>
 
-1.  [Introduction](introduction.md)
+A.  [Introduction](introduction.md)
 
-2.  [Concepts of machine learning and computer vision](2-ML-concepts.md)
+B.  [Concepts of machine learning and computer vision](2-ML-concepts.md)
 
-3.  [Intro Practice: Basics of computer vision with Python](3-intro-practice.md)
+C.  [Intro Practice: Basics of computer vision with Python](3-intro-practice.md)
 
-4.  [Practice 1: Pre-processing images (framework step 2)](4-practice-1.md)
+D.  [Practice 1: Pre-processing images](4-practice-1.md)
 
-5.  [Practice 2: Images pre-annotation and annotation (framework steps 3 and 4)](5-practice-2.md)
+E.  [Practice 2: Images pre-annotation and annotation](5-practice-2.md)
 
-6.  Practice 3: Data augmentation (framework step 5)
+F.  Practice 3: Data augmentation
 
-7.  Practice 4: Model training (framework step 6)
+G.  Practice 4: Model training
 
-8.  Conclusion
+H.  Conclusion
+
+
 
 
 ![logos](./images/logos_all.png)
