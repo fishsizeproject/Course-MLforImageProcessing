@@ -29,15 +29,15 @@ This course is using the framework described in this [publication](https://www.b
 ## Course overview
 
 
-A.  Introduction
+A.  [Introduction](A-introduction.md)
 
-B.  Concepts of machine learning and computer vision
+B.  [Concepts of machine learning and computer vision](B-ML-concepts.md)
 
-C.  Intro Practice: Basics of computer vision with Python
+C.  [Intro Practice: Basics of computer vision with Python](C-intro-practice.md)
 
-D.  Practice 1: Pre-processing images
+D.  [Practice 1: Pre-processing images](D-practice-1.md)
 
-E.  Practice 2: Images pre-annotation and annotation
+E.  [Practice 2: Images pre-annotation and annotation](E-practice-2.md)
 
 F.  Practice 3: Data augmentation
 
@@ -49,8 +49,9 @@ H.  Conclusion
 
 ## Bring your own images
 
+We will provide an example dataset for the course. This dataset includes 50 images per species which were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/).
+It would be very interesting and exciting if course participants also bring their own datasets of fish images. We would need a minimum of 50 images per species and you can use as few as 2 species to start with (however, if species are very similar morphologically, we might need more than 50 images per species). Of course, you want to make sure that fish species in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). Finally, for the tutorials we will use Google drive so please upload your own images to your Google drive by species (i.e. one species per folder). 
 
-a
 <br/>
 
 ## Online meetings
