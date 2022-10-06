@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## **Machine Leaning based image collection, annotation and classification**
+<p style="text-align: center;"><strong>Machine Leaning based image collection, annotation and classification</strong></p>
 
 
 ![fish_detected](./images/fish_detected.png)
 
-<br/>
+
 
 In this online course you will learn about:
 
