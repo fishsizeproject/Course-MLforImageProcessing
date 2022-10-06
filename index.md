@@ -3,10 +3,7 @@ layout: default
 ---
 ![fish_detected](./images/fish_detected.png)
 
-<p align=center> 
-  <b>25-27 October 2022</b>
-</p>
-
+<br/>
 
 In this online course you will learn about:
 
@@ -50,7 +47,7 @@ H.  Conclusion
 <br/>
 <br/>
 
-## Bring your own images</b>
+## Bring your own images
 
 </p> 
 
@@ -60,8 +57,8 @@ It would be very interesting and exciting if course participants also bring thei
 <br/>
 <br/>
 
-<p align=center> 
-  <b>Online meetings</b>
+## Online meetings
+
 </p> 
 
 In this course, it is expected that participants will mostly learn independently, but we will have three online meetings to go through the materials, ask questions and for general discussion. 
