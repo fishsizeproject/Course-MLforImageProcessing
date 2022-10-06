@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+<p style=”text-align: center;”>
+<b>Machine Leaning based image collection, annotation and classification</b>
+</p>
+
+
 ![fish_detected](./images/fish_detected.png)
 
 <br/>
