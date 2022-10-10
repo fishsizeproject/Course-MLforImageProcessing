@@ -55,7 +55,7 @@ If your images can be shared publicly and you want to contribute them to the gen
 
 ## Discussion forum 
 
-You will need a [Github account](https://github.com/join) to post your questions or ideas and join the discussion in the course Github page.
+Course participants are welcome to ask questions and discuss experiences online. We will be using the discussion forum in the [course GitHub page](https://github.com/fishsizeproject/Course-MLforImageProcessing/discussions/). You will need a [Github account](https://github.com/join) to post to the discussion forum.
 
 <br/>
 
