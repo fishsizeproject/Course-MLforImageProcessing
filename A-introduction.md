@@ -46,7 +46,24 @@ You can also start your own notebook by going to Google Colab's home page [here]
 ## Image datasets
 
 We will provide an example dataset for the course. This dataset includes 50 images per species which were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/).
-It would be very interesting and exciting if course participants also bring their own datasets of fish images. We would need a minimum of 50 images per species and you can use as few as 2 species to start with (however, if species are very similar morphologically, we might need more than 50 images per species). Of course, you want to make sure that fish species in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). Finally, for the tutorials we will use Google drive so please upload your own images to your Google drive by species (i.e. one species per folder). 
+It would be very interesting and exciting if course participants also bring their own datasets of fish images. We would need a minimum of 50 images per species and you can use as few as 2 species to start with (however, if species are very similar morphologically, we might need more than 50 images per species). Of course, you want to make sure that fish species in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). Finally, if you are bringing your own dataset please upload images (in JPEG or PNG format) to your Google drive by species (i.e. one species per folder), following this directory structure:
+
+<pre>
+<b>dataset</b>
+|__ <b>perch</b>
+    |______ 100080576_f52e8ee070_n.jpg
+    |______ 14167534527_781ceb1b7a_n.jpg
+    |______ ...
+|__ <b>striped_bass</b>
+    |______ 10043234166_e6dd915111_n.jpg
+    |______ 1426682852_e62169221f_m.jpg
+    |______ ...
+|__ <b>trout</b>
+    |______ 102501987_3cdb8e5394_n.jpg
+    |______ 14982802401_a3dfb22afb.jpg
+    |______ ...
+|__ ...
+</pre>
 
 If your images can be shared publicly and you want to contribute them to the general broader species identification model, please [contact us](catari.bio@gmail.com). This way we can start building a global community contributed fish species identification model.
 
