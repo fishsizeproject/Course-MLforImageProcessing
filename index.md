@@ -47,6 +47,12 @@ H.  Conclusion
 
 <br/>
 
+## Programming skills and Python
+
+It will be useful if course participants have basic programming experience, in Python or R. The scripts used in the course are written in Python, but they are adapted to be user friendly and do not require prior Python knowledge to run them (you would naturally need Python knowledge to modify these scripts further). If you want to learn more about coding with Python a few useful tutorials of basic operations can be found [here](https://www.learnpython.org/). You can also find a list of books [here](https://wiki.python.org/moin/IntroductoryBooks).
+
+<br/>
+
 ## Bring your own images
 
 We will provide an example dataset for the course. This dataset includes 50 images per species which were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/).
@@ -58,11 +64,13 @@ It would be very interesting and exciting if course participants also bring thei
 
 In this course, it is expected that participants will mostly learn independently, but we will have three online meetings to go through the materials, ask questions and for general discussion. 
 
-| Date  | Time (GMT+1) |
-| ------------- | ------------- |
-| 25 Oct, 2022  | 10:00  |
-| 26 Oct, 2022  | 15:00  |
-| 27 Oct, 2022  | 15:00  |
+These meetings will be recorded and videos will be available immediately after the meeting.
+
+| Date  | Time (GMT+1) | Programme |
+| ------------- | ------------- |----|
+| 25 Oct, 2022  | 09:00  | Welcome and introductions, overview of modules A-D, Q&As|
+| 26 Oct, 2022  | 12:00  | Q&As, overview of modules E-H
+| 27 Oct, 2022  | 15:00  | Q&As, presentation of trained models and future directions
 
 <br/>
 
