@@ -34,11 +34,19 @@ For this course we will use Google Colab. Colab, or "Colaboratory", is a free, c
 
 To start using Google Colab, you will need a Google account.
 
-We will share notebooks with you, and you will be able to create a copy of notebooks in your own Google directory, and then modify and use them for your own purposes.
+We will share notebooks with you and you will be able to create a copy of notebooks in your own Google directory, and then modify and use them for your own purposes.
 
-Alternatively, if you are familiar with GitHub, you can create a fork of the course materials to your GitHub account and only then open the GitHub hosted notebooks in Colab. This will open a new editable view of the notebook, which you can run and modify directly without worrying about overwriting the source files.
+You can find these badges on each practice session, which will direct you to the session notebook:
 
-You can also start your own notebook by going to Google Colab's home page [here](https://colab.research.google.com/) and clicking 'new notebook' on the bottom right corner. If you like you can also click 'cancel' and go to a short tutorial on how to get started with Google colab.
+<img src="./images/colab_badge.png" alt="colab_badge" width="150"/>
+
+This will open a new editable view of the notebook, which you can run and modify directly without worrying about overwriting the source notebook. To save any changes you make to the notebook you will have to save a copy of the notebook in your own Google Drive. If you try to save the changes directly in the source notebook you will get the message below: 
+
+![colab_notebook_permissions](./images/colab_notebook_permissions.png)
+
+After modifying your notebook you can save changes by choosing `File`→`Save a copy in Drive` and follow the resulting prompts.
+
+Alternatively, you can start your own notebook by going to Google Colab's home page [here](https://colab.research.google.com/) and clicking 'new notebook' on the bottom right corner. If you like you can also click 'cancel' and go to a short tutorial on how to get started with Google colab.
 
 <br/>
 
@@ -77,9 +85,9 @@ Course participants are welcome to ask questions and discuss experiences online 
 
 ## Github
 
-After finishing the exercices, you will have to save your changes from within Colab. For this you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts.
+If you are familiar with GitHub, you can create a fork of the course materials to your GitHub account and then open the GitHub hosted notebooks in Colab.
 
-To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
+To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository. To save changes to your GitHub forked repository you need to go to `File`→`Save a copy to GitHub` and follow the resulting prompts.
 
 We are keen to improve and advance this Machine Learning species identification model framework, so if you would like to collaborate on the [FishSizeProject](https://fishsizeproject.org/), please [contact us](catari.bio@gmail.com).
 
