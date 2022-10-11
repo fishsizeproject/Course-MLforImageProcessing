@@ -26,18 +26,17 @@ The main **learning objectives** of this course are to:
 
 It will be useful if course participants have basic programming experience, in Python or R. The scripts used in the course are written in Python, but they are adapted to be user friendly and do not require prior Python knowledge to run them (you would naturally need Python knowledge to modify these scripts further). If you want to learn more about coding with Python a few useful tutorials of basic operations can be found [here](https://www.learnpython.org/). You can also find a list of books [here](https://wiki.python.org/moin/IntroductoryBooks).
 
-
 <br/>
 
 ## Google Colab
 
-For this course we will use Google Colab. Colab, or "Colaboratory", is a free, cloud-based environment similar to Jupyter's network environment that allows you to write and execute Python code in your browser without the need for installation and configuration. It also provides free access to GPUs.
+For this course we will use Google Colab. Colab, or "Colaboratory", is a free, cloud-based environment similar to Jupyter's network environment that allows you to write and execute Python code in your browser without the need for installation and configuration. It also provides some free access to computing resources (GPUs).
 
-To start using Google Colab, you will need a Google account. 
+To start using Google Colab, you will need a Google account.
 
-We will share notebooks with you, which will allow you to create a copy in your own Google directory, and modify and use it for your own purposes.
+We will share notebooks with you, and you will be able to create a copy of notebooks in your own Google directory, and then modify and use them for your own purposes.
 
-When you open the GitHub hosted notebook in Colab, it opens a new editable view of the notebook. You can run and modify the notebook directly without worrying about overwriting the source.
+Alternatively, if you are familiar with GitHub, you can create a fork of the course materials to your GitHub account and only then open the GitHub hosted notebooks in Colab. This will open a new editable view of the notebook, which you can run and modify directly without worrying about overwriting the source files.
 
 You can also start your own notebook by going to Google Colab's home page [here](https://colab.research.google.com/) and clicking 'new notebook' on the bottom right corner. If you like you can also click 'cancel' and go to a short tutorial on how to get started with Google colab.
 
@@ -45,9 +44,9 @@ You can also start your own notebook by going to Google Colab's home page [here]
 
 ## Image datasets
 
-We will provide an example dataset for the course. This dataset includes 50 images per species which were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/).
-It would be very interesting and exciting if course participants also bring their own datasets of fish images. We would need a minimum of 50 images per species and you can use as few as 2 species to start with (however, if species are very similar morphologically, we might need more than 50 images per species). Of course, you want to make sure that fish species in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). Finally, if you are bringing your own dataset please upload images (in JPEG or PNG format) to your Google drive by species (i.e. one species per folder), following this directory structure:
+We will provide an example dataset for the course. This dataset includes **three fish species??** with50 images per species. The images were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/). It would be very interesting and exciting if course participants also bring their own datasets of fish images. Ideally you would have at least 50 images per species and you can use as few as two species to start with. Of course more images are likely to give you a better model, especially if species are very similar morphologically. However, we will have limited computing resources and time during the course, so it might be good to limit your images to a maximum of 200 per species. It is very important that fish species (or ecotypes or any other classes you want your model to identify) in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). If you are bringing your own dataset please upload images (in JPEG or PNG format) to your Google drive by species (i.e. one species per folder), following this directory structure:
 
+```{=html}
 <pre>
 <b>dataset</b>
 |__ <b>perch</b>
@@ -64,26 +63,23 @@ It would be very interesting and exciting if course participants also bring thei
     |______ ...
 |__ ...
 </pre>
-
-If your images can be shared publicly and you want to contribute them to the general broader species identification model, please [contact us](catari.bio@gmail.com). This way we can start building a global community contributed fish species identification model.
-
-<br/>
-
-
-## Discussion forum 
-
-Course participants are welcome to ask questions and discuss experiences online. We will be using the discussion forum in the [course GitHub page](https://github.com/fishsizeproject/Course-MLforImageProcessing/discussions/). You will need a [Github account](https://github.com/join) to post to the discussion forum.
+```
+If your images can be shared publicly and you want to contribute them to the general broader species identification model, such as the one developed by [Fishial](https://fishial.ai/), please [let us know](catari.bio@gmail.com). This way we can start building a global community contributed fish species identification model.
 
 <br/>
 
+## Discussion forum
 
-## Github 
+Course participants are welcome to ask questions and discuss experiences online using the discussion forum in the [course GitHub page](https://github.com/fishsizeproject/Course-MLforImageProcessing/discussions/). You will need a [Github account](https://github.com/join) to post to the discussion forum.
+
+<br/>
+
+## Github
 
 After finishing the exercices, you will have to save your changes from within Colab. For this you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts.
 
 To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
 
-We are keen to improve and advance this framework, so if you would like to collaborate on the [FishSizeProject](https://fishsizeproject.org/), please [contact us](catari.bio@gmail.com).
+We are keen to improve and advance this Machine Learning species identification model framework, so if you would like to collaborate on the [FishSizeProject](https://fishsizeproject.org/), please [contact us](catari.bio@gmail.com).
 
 <br/>
-
