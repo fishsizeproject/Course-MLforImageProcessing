@@ -44,9 +44,9 @@ You can also start your own notebook by going to Google Colab's home page [here]
 
 ## Image datasets
 
-We will provide an example dataset for the course. This dataset includes **three fish species??** with50 images per species. The images were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/). It would be very interesting and exciting if course participants also bring their own datasets of fish images. Ideally you would have at least 50 images per species and you can use as few as two species to start with. Of course more images are likely to give you a better model, especially if species are very similar morphologically. However, we will have limited computing resources and time during the course, so it might be good to limit your images to a maximum of 200 per species. It is very important that fish species (or ecotypes or any other classes you want your model to identify) in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). If you are bringing your own dataset please upload images (in JPEG or PNG format) to your Google drive by species (i.e. one species per folder), following this directory structure:
+We will provide an example dataset for the course. This dataset includes three fish species with 50 images per species. The images were provided by [MyCatch](https://mycatch.ca/) and [Fishial](https://fishial.ai/). It would be very interesting and exciting if course participants also bring their own datasets of fish images. Ideally you would have at least 50 images per species and you can use as few as two species to start with. Of course more images per species are likely to give you a better model, especially if species are very similar morphologically. However, we will have limited computing resources and time during the course, so it might be good to limit your images to a maximum of 200 per species. It is very important that fish species (or ecotypes or any other classes you want your model to identify) in your dataset are identified correctly, otherwise your model will not be very useful (you might have heard the expression "garbage in - garbage out"). If you are bringing your own dataset please upload images (in JPEG or PNG format) to your Google drive by species (i.e. one species per folder - please make sure these are correctly identified), following this directory structure:
 
-```{=html}
+
 <pre>
 <b>dataset</b>
 |__ <b>perch</b>
@@ -63,7 +63,8 @@ We will provide an example dataset for the course. This dataset includes **three
     |______ ...
 |__ ...
 </pre>
-```
+
+
 If your images can be shared publicly and you want to contribute them to the general broader species identification model, such as the one developed by [Fishial](https://fishial.ai/), please [let us know](catari.bio@gmail.com). This way we can start building a global community contributed fish species identification model.
 
 <br/>
