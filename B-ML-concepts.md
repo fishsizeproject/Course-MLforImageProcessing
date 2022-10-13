@@ -41,14 +41,13 @@ Each of these machine categories have different types of algorithms include clas
 
 **Computer vision** is the study of building artificial systems that can process, perceive and reason about visual data, which can be images or videos.
 
-The role of computer vision is getting more and more important in our society. And because millions of images and visual data are being generate everyday it is just impossible to look at this massive amount of data individually. We need automated systems to do this, make this process feasible and so it's very important to build algorithms that can process and reason about these data. 
+The role of computer vision is getting more and more important in our society. And because millions of images and visual data are being generated everyday it is just impossible to look at this massive amount of data individually. We need automated systems to do this and make this process feasible and so it is very important to build algorithms that can process and reason about these data. 
 
 
 <br/>
 
- ## Video
+ ## Video ?
 
-_In preparation_
 
 <br/>
 
