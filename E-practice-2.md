@@ -16,16 +16,20 @@ In this section we will partly automate and speed up image processing tasks by p
 
 After placing the bounding box in the fish, we will use a script to format the metadata file cointaining the information on the bounding boxes coordinates. We will convert the bounding boxes coordinates from relative values to absolute values and save the metadata in a _.csv_ file. This step is required to open the images and pre-annotations (bounding boxes) in the [VGG software](https://www.robots.ox.ac.uk/~vgg/software/via/), which we will use yo manually annotate images.
 
-You can access the notebook [here]().
+<br/>
 
- 
+You can access the notebook here:
+
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ak7UPmP2xZ6QFhXmAMgcISu9kjCUY6w-) 
+
 <br/>
 
 ## VGG software
 
-Finally, the last part of this practice is the manual annotation of images. Note that this step is required only if you are using the object detection method for model training. In this course we will use the classification method which means we will not need the _.csv_ file with annotations.
+Finally, the last part of this practice is the manual annotation of images. For that you will need to download the [VGG software](https://www.robots.ox.ac.uk/~vgg/software/via/) and load the images with the _.csv_ file generated in the step before (pre-annotations).
 
-You will need to download the [VGG software](https://www.robots.ox.ac.uk/~vgg/software/via/) and load the images with the _.csv_ file generated in the step before (pre-annotations).
+Note that this step is required only if you are using the object detection method for model training. In this course we will use the classification method which means we will not need the _.csv_ file with annotations.
+
 
 <br/>
 
