@@ -29,7 +29,7 @@ This course is using the framework described in this [publication](https://www.b
 ## Course overview
 
 
-A. Introduction
+A. [Introduction](A-introduction.md)
 
 B. Concepts of machine learning and computer vision
 
