@@ -29,21 +29,21 @@ This course is using the framework described in this [publication](https://www.b
 ## Course overview
 
 
-A.  Introduction
+A. Introduction
 
-B.  Concepts of machine learning and computer vision
+B. Concepts of machine learning and computer vision
 
-C.  Intro Practice: Basics of computer vision with Python
+C. Intro Practice: Basics of computer vision with Python
 
-D.  Practice 1: Pre-processing images
+D. Practice 1: Pre-processing images
 
-E.  Practice 2: Images pre-annotation and annotation
+E. Practice 2: Images pre-annotation and annotation
 
-F.  Practice 3: Data augmentation
+F. Practice 3: Data augmentation
 
-G.  Practice 4: Model training
+G. Practice 4: Model training
 
-H.  Conclusion
+H. Conclusion
 
 <br/>
 
