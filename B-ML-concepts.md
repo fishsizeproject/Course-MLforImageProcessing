@@ -86,4 +86,6 @@ Because of this dense connectivity pattern, this type of neural network is typic
 
 ## Resources
 
-add links to text with extra info
+LeCun Y, Bengio Y, Hinton G. (2015) [Deep learning](https://www.nature.com/articles/nature14539). Nature 521, 436–444 
+
+Rumelhart D, Hinton G, Williams R Learning (1986) [Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0). Nature 323 (6088): 533–536 
