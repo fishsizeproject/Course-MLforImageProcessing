@@ -18,7 +18,7 @@ This open-source user friendly and modular framework for large scale image stora
 
 In this introductory practice we will use Python and computer vision libraries for basic image processing. You can access the notebook here:
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/fishsizeproject/Course-MLforImageProcessing/blob/dev/C-intro-practice.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qhc8kgXAwM3k18zgweAsvwIjSG0Qm8lT)
 
 <br/>
 
