@@ -14,15 +14,7 @@ In this section we will pre-process images that may contain sensitive data, such
 
 You can access the notebook here:
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/fishsizeproject/Course-MLforImageProcessing/blob/dev/D-practice1-preprocessing.ipynb)
-
-<br/>
- 
-<br/>
-
- ## Video
-
-_In preparation_
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ad-t1zDnx7_UGXiCahZnvSDfoGjzswb_#scrollTo=2zPqiDyVWEIP)
 
 <br/>
 
@@ -30,3 +22,4 @@ _In preparation_
 
 ## Resources
 
+[CVlib on Github](https://github.com/arunponnusamy/cvlib) - besides face detection the library has functions for gender detection and other objects detection (such as dog and horse)
