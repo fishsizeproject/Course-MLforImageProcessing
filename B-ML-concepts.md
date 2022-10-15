@@ -22,7 +22,7 @@ In this section we will discuss some important concepts on machine learning, dee
 
 <br/>
 
-**Machine learning** is a field of of AI (**or data science??)**, while deep learning is a field of ML, although these categories are somewhat imprecise, and, for example, some parts of ML could belong to statistics. Machine learning can be defined as a system that improves its performance in a given task with more experience or more data.
+**Machine learning** is a field of AI, while deep learning is a field of ML, although these categories are somewhat imprecise, and, for example, some parts of ML could belong to data science and statistics. Machine learning can be defined as a system that improves its performance in a given task with more experience or more data.
 
 <br/>
 
@@ -64,7 +64,7 @@ Deep learning was first introduced and applied to a computer vision classificati
 
 A deep neural network is a single end-to-end pipeline that, on the left hand side (input layer), takes in the raw pixels of the image and on the right side (output layer) predicts the classification scores or probabilities. During the process of the training all parts of the algorithm are tuned and 'trained' simultaneously.
 
-The input data or input layer is as a column vector containing all of the pixels of our input dataset. In the middle we have the hidden vectors, *h*, and on the right our final score vectors with classification scores per category. **Catarina, check, is this correct?**: Generally the algorithm tries to find consistent correlations among pixels in the image, i.e. those that appear in multiple images of a specific class, but are different from images in another class.
+The input data or input layer is a column vector containing all of the pixels of our input dataset. In the middle we have the hidden vectors, *h*, and on the right our final score vectors with classification scores per category. Generally the algorithm tries to find consistent correlations among pixels in the image, i.e. those that appear in multiple images of a specific class, but are different from images in another class.
 
 In addition, there are weight matrices in between each of the multiple layers of the neural network. These weight matrices inform how much each element of the previous layer influences each element of the next layer.
 
@@ -72,7 +72,18 @@ Because of the dense connectivity pattern, this type of a neural network is typi
 
 <br/>
 
-\## Video ?
+## Convolutional Neural Networks
+
+A convolutional neural network (also known as CNN or ConvNet) is a class of neural networks commonly applied to analyze visual imagery data. 
+
+A ConvNet is able to reduce the images into a form which is easier to process, without losing features (or variables) which are critical for getting a good prediction. Therefore, compared to other classification algorithms the pre-processing time required in a ConvNet is much lower. This is an important quality of an algorithm when we are working with massive datasets. In other words, the role of ConvNet is to decrease the computational power required to process the data through a pre-processing step of dimensionality reduction. 
+
+Here is a simple example of the process of convoluting a 5x5x1 image with a 3x3x1 kernel into a 3x3x1 feature:
+
+![DNN](./images/convolution.gif) 
+
+You can find more information about ConvNets [here](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).
+
 
 <br/>
 
@@ -81,3 +92,6 @@ Because of the dense connectivity pattern, this type of a neural network is typi
 LeCun Y, Bengio Y, Hinton G. (2015) [Deep learning](https://www.nature.com/articles/nature14539). Nature 521, 436--444
 
 Rumelhart D, Hinton G, Williams R Learning (1986) [Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0). Nature 323 (6088): 533--536
+
+Valueva MV, Nagornov NN, Lyakhov PA, Valuev GV, Chervyakov NI (2020) [Application of the residue number system to reduce hardware costs of the convolutional neural network implementation](https://www.sciencedirect.com/science/article/abs/pii/S0378475420301580?via%3Dihub). Mathematics and Computers in Simulation, 177:232-243.
+
