@@ -2,20 +2,19 @@
 layout: default
 ---
 
-<sub>[Course Overview](index.md) > Concepts of machine learning and computer vision</sub>
+<sub>[Course Overview](index.md) \> Concepts of machine learning and computer vision</sub>
 
 # Concepts of machine learning and computer vision
 
 In this section we will discuss some important concepts on machine learning, deep learning and computer vision.
 
- 
 <br/>
 
 ## Data Science
 
 <br/>
 
-**Data science** is a recent umbrella term (that covers several subdisciplines) that includes artificial intelligence (AI), machine learning and deep learning, but also certain aspects of computer science including algorithms, data storage, and web application development. Data science is also a practical discipline that requires understanding of the domain in which it is applied in, for example, business or science. Data science solutions often involve AI but usually not as much as most people would expect from the headlines.
+**Data science** is a discipline that includes artificial intelligence (AI), machine learning (ML) and deep learning, but also some other aspects of computer science, such as algorithms, data storage and web application development. Data science is a practical discipline that requires knowledge of the domain for which it is applied for, e.g., business, medicine, biology. Data science solutions often involve AI, but usually not as much as most people would expect from the headlines.
 
 <br/>
 
@@ -23,8 +22,7 @@ In this section we will discuss some important concepts on machine learning, dee
 
 <br/>
 
-**Machine learning** can be said to be a subfield of AI, while deep learning is a subfield of ML (such categories are often somewhat imprecise and for example some parts of machine learning could belong to statistics). Machine learning can be defined as a system that improve its performance in a given task with more experience or more data.
-
+**Machine learning** is a field of of AI (**or data science??)**, while deep learning is a field of ML, although these categories are somewhat imprecise, and, for example, some parts of ML could belong to statistics. Machine learning can be defined as a system that improves its performance in a given task with more experience or more data.
 
 <br/>
 
@@ -32,16 +30,15 @@ In this section we will discuss some important concepts on machine learning, dee
 
 <br/>
 
-The area of machine learning is often divided in subareas according to the kinds of problems being solved. So roughly it can be divided in supervised and unsupervised learning.
+The area of ML is often divided in subareas according to the kinds of problems being solved. It can be roughly divided into supervised and unsupervised learning.
 
-In **supervised learning** the model is given an input, for example a photograph with a traffic sign, and the task is to predict the correct output or label, for example which traffic sign is in the picture (speed limit, stop sign, etc.). In the simplest cases, the answers are in the form of yes or no (binary classification problems).
+In **supervised learning** the model is given an input of data with known labels, for example photographs of two types of traffic signs (1: speed limit, 2: stop sign). The model's task is to predict the correct label. ***[AA: not sure I get this sentence, maybe just remove: In the simplest cases, the answers are in the form of yes or no (binary classification problems]***
 
-In **unsupervised learning** there are no labels or correct outputs. The task is to discover the structure of the data: for example, grouping similar items to form “clusters” or reducing the data to a smaller number of important “dimensions”. So for example exploratory data visualization can be considered unsupervised learning.
+In **unsupervised learning** there are no labels or correct outputs. The model's task is to discover the structure of the data: for example, grouping similar items to form "clusters" or reducing the data to a smaller number of important "dimensions". Exploratory data visualisation can be considered unsupervised learning.
 
-Overver it is important to remember that these categories are somewhat overlapping, so a particular method can sometimes be hard to place in one category. Also, an additional category you can find in the literature is the so-called **semisupervised learning** which is partly supervised and partly unsupervised.
+The categories of supervised or unsupervised learning are not clear cut, however, and a particular method may belong to both categories. There is also a category of a so-called **semisupervised learning** which is partly supervised and partly unsupervised.
 
-Each of these machine categories have different types of algorithms include classification, regression, clustering and dimensionality reduction. In this course we will focus primarily on supervised learning, and in particular, classification tasks for visual data. 
-
+Each of these ML categories have different types of algorithms, which include classification, regression, clustering and dimensionality reduction. In this course we will focus primarily on supervised learning, and, in particular, classification tasks for visual data.
 
 <br/>
 
@@ -49,9 +46,7 @@ Each of these machine categories have different types of algorithms include clas
 
 <br/>
 
-**Computer vision** is the study of building artificial systems that can process, perceive and reason about visual data, which can be images or videos.
-
-The role of computer vision is getting more and more important in our society. And because millions of images and visual data are being generated everyday it is just impossible to look at this massive amount of data individually. We need automated systems to do this and make this process feasible and so it is very important to build algorithms that can process and reason about these data. 
+**Computer vision** is the field of research which aims to build artificial systems that can process, perceive and reason about visual data, such as images or videos. Computer vision applicaitons are rapidly increasing in our society, due to existing technological abilities to collect huge amounts of visual data. Millions of images and visual data that are generated everyday requires extensive computing resources and advanced models, if we want to make sense of it. This is what we will aim to learn in this course.
 
 <br/>
 
@@ -61,31 +56,28 @@ The role of computer vision is getting more and more important in our society. A
 
 A technique that is widely used in computer vision these days is **deep learning**.
 
-**Deep learning** can be defined as a system that can process and reason about data using hierarchical learning algorithms, with many "layers" that are very loosely inspired by how the brain works. That is the reason why these algorithms are called neural networks, and are often represented by images such as this one, showing the architecture of the algorithm. 
+**Deep learning** can be defined as a system that can process and reason about data using hierarchical learning algorithms with many "layers". This idea is loosely inspired by the way we believe our brain works. That is the reason why these algorithms are called neural networks, and are often represented by images such as the one below, showing the architecture of the algorithm.
 
-![DNN](./images/DNN.png)
-_Artificial deep neural network architecture_
+![DNN](./images/DNN.png) *Artificial deep neural network architecture*
 
-Deep learning was first introduced and applied to a computer vision classification task in 2012 ([this publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)), when it just crushed the [ImageNet competition](https://www.image-net.org/challenges/LSVRC/index.php), an annual Visual Classification Challenge. These researchers built and applied a deep learning algorithm called AlexNet to the ImageNet dataset, and this algorithm had significantly lower error rates than other algorithms that have been applied to the dataset until that time.
+Deep learning was first introduced and applied to a computer vision classification task in 2012 ([this publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)), when it just crushed the [ImageNet competition](https://www.image-net.org/challenges/LSVRC/index.php), an annual Visual Classification Challenge. Researchers in this study have built and applied a deep learning algorithm called AlexNet to the ImageNet dataset. The algorithm had significantly lower error rates than other algorithms that have been applied to this dataset before.
 
-A deep neural network is a single end-to-end pipeline that, on the left hand side (input layer), takes in the raw pixels of the image and predicts the classification scores or probabilities, on the right side (output layer). During the process of the training we will tune not only the final layer but all the part of the system jointly.
+A deep neural network is a single end-to-end pipeline that, on the left hand side (input layer), takes in the raw pixels of the image and on the right side (output layer) predicts the classification scores or probabilities. During the process of the training all parts of the algorithm are tuned and 'trained' simultaneously.
 
-The input data (or input layer) is as a column vector containing all of our pixels of our input matrix. In the middle we have the hidden vectors, _h_, and on the right our final score vectors with classification scores per category.
+The input data or input layer is as a column vector containing all of the pixels of our input dataset. In the middle we have the hidden vectors, *h*, and on the right our final score vectors with classification scores per category. **Catarina, check, is this correct?**: Generally the algorithm tries to find consistent correlations among pixels in the image, i.e. those that appear in multiple images of a specific class, but are different from images in another class.
 
-In addition, there are weight matrices in between each of these multiple layers of our neural network. These weight matrices have information on how much each element of the previous layer influences each element of the next layer. 
+In addition, there are weight matrices in between each of the multiple layers of the neural network. These weight matrices inform how much each element of the previous layer influences each element of the next layer.
 
-Because of this dense connectivity pattern, this type of neural network is typically called a fully connected network, because the units in each layer of the network are all connected to one another. This type of structure is also sometimes called a "Multi Layer Perceptron or MLP".
-
+Because of the dense connectivity pattern, this type of a neural network is typically called a fully connected network, because the units in each layer of the network are all connected to one another. Sometimes this structure is also called a "Multi Layer Perceptron or MLP".
 
 <br/>
 
- ## Video ?
-
+\## Video ?
 
 <br/>
 
 ## Resources
 
-LeCun Y, Bengio Y, Hinton G. (2015) [Deep learning](https://www.nature.com/articles/nature14539). Nature 521, 436–444 
+LeCun Y, Bengio Y, Hinton G. (2015) [Deep learning](https://www.nature.com/articles/nature14539). Nature 521, 436--444
 
-Rumelhart D, Hinton G, Williams R Learning (1986) [Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0). Nature 323 (6088): 533–536 
+Rumelhart D, Hinton G, Williams R Learning (1986) [Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0). Nature 323 (6088): 533--536
