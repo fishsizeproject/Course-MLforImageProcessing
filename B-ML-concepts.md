@@ -74,16 +74,15 @@ Because of the dense connectivity pattern, this type of a neural network is typi
 
 ## Convolutional Neural Networks
 
-A convolutional neural network (also known as CNN or ConvNet) is a class of neural networks commonly applied to analyze visual imagery data. 
+A convolutional neural network (also known as CNN or ConvNet) is a class of neural networks commonly applied to analyse visual imagery data.
 
-A ConvNet is able to reduce the images into a form which is easier to process, without losing features (or variables) which are critical for getting a good prediction. Therefore, compared to other classification algorithms the pre-processing time required in a ConvNet is much lower. This is an important quality of an algorithm when we are working with massive datasets. In other words, the role of ConvNet is to decrease the computational power required to process the data through a pre-processing step of dimensionality reduction. 
+A ConvNet is able to reduce the images into a form which is easier to process, without losing features (or variables) which are critical for getting a good prediction. Therefore, compared to other classification algorithms the pre-processing time required in a ConvNet is much lower. This is an important quality of an algorithm when we are working with massive datasets. In other words, the role of ConvNet is to decrease the computational power required to process the data through a pre-processing step of dimensionality reduction.
 
-Here is a simple example of the process of convoluting a 5x5x1 image with a 3x3x1 kernel into a 3x3x1 feature:
+Here is a simple example of the process of convoluting a 5x5x1 image with a 3x3x1 kernel into a 3x3x1 feature **[Catarina, maybe explain how the numbers are derived in the second matrix? Why is the first number 4? I first thought it shows the number of ones, but it is not really. So how are these numbers generated?]:**
 
-![DNN](./images/convolution.gif) 
+![DNN](./images/convolution.gif)
 
 You can find more information about ConvNets [here](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).
-
 
 <br/>
 
@@ -94,4 +93,3 @@ LeCun Y, Bengio Y, Hinton G. (2015) [Deep learning](https://www.nature.com/artic
 Rumelhart D, Hinton G, Williams R Learning (1986) [Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0). Nature 323 (6088): 533--536
 
 Valueva MV, Nagornov NN, Lyakhov PA, Valuev GV, Chervyakov NI (2020) [Application of the residue number system to reduce hardware costs of the convolutional neural network implementation](https://www.sciencedirect.com/science/article/abs/pii/S0378475420301580?via%3Dihub). Mathematics and Computers in Simulation, 177:232-243.
-
