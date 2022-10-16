@@ -32,7 +32,7 @@ In this section we will discuss some important concepts on machine learning, dee
 
 The area of ML is often divided in subareas according to the kinds of problems being solved. It can be roughly divided into supervised and unsupervised learning.
 
-In **supervised learning** the model is given an input of data with known labels, for example photographs of two types of traffic signs (1: speed limit, 2: stop sign). The model's task is to predict the correct label. ***[AA: not sure I get this sentence, maybe just remove: In the simplest cases, the answers are in the form of yes or no (binary classification problems]***
+In **supervised learning** the model is given an input of data with known labels, for example photographs of three species of fish (label 1: species 1, label 2: species 2, label 3: species 3). The model's task is to predict the correct label for the photograph. 
 
 In **unsupervised learning** there are no labels or correct outputs. The model's task is to discover the structure of the data: for example, grouping similar items to form "clusters" or reducing the data to a smaller number of important "dimensions". Exploratory data visualisation can be considered unsupervised learning.
 
@@ -60,11 +60,11 @@ A technique that is widely used in computer vision these days is **deep learning
 
 ![DNN](./images/DNN.png) *Artificial deep neural network architecture*
 
-Deep learning was first introduced and applied to a computer vision classification task in 2012 ([this publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)), when it just crushed the [ImageNet competition](https://www.image-net.org/challenges/LSVRC/index.php), an annual Visual Classification Challenge. Researchers in this study have built and applied a deep learning algorithm called AlexNet to the ImageNet dataset. The algorithm had significantly lower error rates than other algorithms that have been applied to this dataset before.
+Deep learning was first introduced and applied to a computer vision classification task in 2012 ([this publication](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)), when it just crushed the [ImageNet competition](https://www.image-net.org/challenges/LSVRC/index.php), an annual Visual Classification Challenge. Researchers in this study have built and applied a deep learning algorithm called AlexNet to the ImageNet dataset. The algorithm had significantly lower error rates than other algorithms that had been applied to this dataset before.
 
 A deep neural network is a single end-to-end pipeline that, on the left hand side (input layer), takes in the raw pixels of the image and on the right side (output layer) predicts the classification scores or probabilities. During the process of the training all parts of the algorithm are tuned and 'trained' simultaneously.
 
-The input data or input layer is a column vector containing all of the pixels of our input dataset. In the middle we have the hidden vectors, *h*, and on the right our final score vectors with classification scores per category. Generally the algorithm tries to find consistent correlations among pixels in the image, i.e. those that appear in multiple images of a specific class, but are different from images in another class.
+The input data or input layer is a column vector containing all the pixels of our input dataset. In the middle we have the hidden vectors, *h*, and on the right our final score vectors with classification scores per category. Generally the algorithm tries to find consistent correlations among pixels in the image, i.e. those that appear in multiple images of a specific class, but are different from images in another class.
 
 In addition, there are weight matrices in between each of the multiple layers of the neural network. These weight matrices inform how much each element of the previous layer influences each element of the next layer.
 
@@ -78,9 +78,17 @@ A convolutional neural network (also known as CNN or ConvNet) is a class of neur
 
 A ConvNet is able to reduce the images into a form which is easier to process, without losing features (or variables) which are critical for getting a good prediction. Therefore, compared to other classification algorithms the pre-processing time required in a ConvNet is much lower. This is an important quality of an algorithm when we are working with massive datasets. In other words, the role of ConvNet is to decrease the computational power required to process the data through a pre-processing step of dimensionality reduction.
 
-Here is a simple example of the process of convoluting a 5x5x1 image with a 3x3x1 kernel into a 3x3x1 feature **[Catarina, maybe explain how the numbers are derived in the second matrix? Why is the first number 4? I first thought it shows the number of ones, but it is not really. So how are these numbers generated?]:**
+The convolution process uses a kernel to extract certain features from an input image. A kernel is a matrix of weights which are multiplied by the input image to extract relevant features so that the output is enhanced in a certain desirable way.
+
+Here is a simple example of the process of convoluting a 5x5x1 image with a 3x3x1 kernel into a 3x3x1 feature. 
 
 ![DNN](./images/convolution.gif)
+
+For example, the value of the first pixel (4) is derived by multiplying all the values of the kernel with the corresponding values in the pixel of the original image (1x1 + 0x1 + 1x1 + 0x0 + 1x1 + 1x0 + 0x1 + 0x0 + 1x1).
+
+![DNN](./images/convolution-first-pixel.png)
+
+Have a look at this great [online tool to visualize image kernels](https://setosa.io/ev/image-kernels/) - you can select different kernel matrices and see how they effect the original image or build your own kernel. 
 
 You can find more information about ConvNets [here](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).
 
