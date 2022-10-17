@@ -31,9 +31,9 @@ This course is using the framework described in this [publication](https://www.b
 
 A. [Introduction](A-introduction.md)
 
-B. Concepts of machine learning and computer vision
+B. [Concepts of machine learning and computer vision](B-ML-concepts.md)
 
-C. Intro Practice: Basics of computer vision with Python
+C. [Intro Practice: Basics of computer vision with Python](C-intro-practice.md)
 
 D. Practice 1: Pre-processing images
 
