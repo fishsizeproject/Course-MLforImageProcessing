@@ -35,7 +35,7 @@ B. [Concepts of machine learning and computer vision](B-ML-concepts.md)
 
 C. [Intro Practice: Basics of computer vision with Python](C-intro-practice.md)
 
-D. [Practice 1: Pre-processing images](D-practice-1.md)
+D. Practice 1: Pre-processing images
 
 E. Practice 2: Images pre-annotation and annotation
 
