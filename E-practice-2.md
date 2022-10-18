@@ -18,7 +18,7 @@ There are two types of methods to label the dataset (i.e. methods used in superv
 
 **Object detection** 
 
-***Add an picture of some sorts to make the page look nicer***
+![object](./images/object_detection.png)
 
 Note that this step is required only if you are using the object detection method for model training. In this course we will use the classification method which means we will not need the *.csv* file with annotations.
 
