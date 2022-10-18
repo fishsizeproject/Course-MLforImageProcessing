@@ -14,9 +14,9 @@ Before we apply computer vision methods, available images must be properly prepa
 
 ## Do you need to annotate your images with bounding boxes or other traced shapes? 
 
-There are two types of common algorithms used in image analyses - object detection and image classification.
+There are two types of methods to label the dataset (i.e. methods used in supervised machine learning) that will be used for trainnig models - object detection and image classification.
 
-Explain their main points, advantages and how they work.
+**Object detection** 
 
 ***Add an picture of some sorts to make the page look nicer***
 
