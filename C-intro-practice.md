@@ -28,6 +28,8 @@ The practice is done on Google Colab and you can access the notebook here:
 
 <br/>
 
+![printscreen](./images/notebook_printscreen_intro.png)
+
 <br/>
 
 ## Other Resources
