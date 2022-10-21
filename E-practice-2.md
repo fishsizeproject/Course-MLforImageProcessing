@@ -44,7 +44,7 @@ To read our pre-annotated images into the VGG software we will need to transform
 
 <br/>
 
-You can access the notebook here:
+You can access the notebook here (printscreen below):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHhqN8BLwitlHoGMXpKUL8DvnQHtSqPv?usp=sharing)
 
