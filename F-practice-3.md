@@ -24,11 +24,15 @@ Here are two types of transformations available in the library (you can find the
 ![framework](./images/example_augmentations.png)
 
 
+
 <br/>
 
-You can access the notebook of this practice here:
+You can access the notebook of this practice here (printscreen below):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M_oLi9KYSZabMcrQZIo9OWDA8WOG7xiN?usp=sharing)
+
+
+![printscreen](./images/notebook_printscreen_practice3.png)
 
 <br/>
 
