@@ -48,6 +48,9 @@ You can access the notebook here:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dHhqN8BLwitlHoGMXpKUL8DvnQHtSqPv?usp=sharing)
 
+
+![printscreen](./images/notebook_printscreen_practice2.png)
+
 <br/>
 
 ## VGG software
