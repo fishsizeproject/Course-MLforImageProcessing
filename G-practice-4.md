@@ -19,7 +19,8 @@ For this practice you need to be familiear with a few concepts that we have not 
 From a practical point of view, transferring information from a previously learned task (previously trained model) for the learning of new tasks (new models) has the potential to significantly improve efficiency of the learning process.
 
 
-
+![transferlearning](./images/transfer_learning.png)
+<br/>
 
 
 <br/>
