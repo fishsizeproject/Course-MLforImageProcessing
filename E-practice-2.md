@@ -19,17 +19,13 @@ There are two broad types of methods used in computer vision based on how featur
 **Object detection** aims to determine where objects are located in a given image and which category or class each object belongs to (also known as object classification). In other words, after identifying the location of the object in the image, object detection is similar to image classification technique.
 
 <p align="center">
-
 <img src="./images/object_detection.png" width="250"/>
-
 </p>
 
 **Image classification** is a technique in which the model inputs are usually images of a specific object, such as the dog breeds in the picture below (i.e. one class per image), and the outputs are the predicted classes.
 
 <p align="center">
-
 <img src="./images/image_classification.png" width="350"/>
-
 </p>
 
 As you can see above there are no bounding boxes in the image classification training data, as the entire image is given a certain category (dog breed, fish species, or other). The model will then look for common features in all images (entire photo) in each defined category. This means that for image classification bounding boxes are not needed, and annotation simply involves grouping images into respective categories, and, for example, placing them into respective folders (as in our example data set). In this course we will use the classification method so strictly speaking we don't need to worry about bounding boxes. However, we still include the step about bounding boxes and object detection method in this course, as course participants might find it useful for other work and also because such pre-processing could help accelerate the process of manual annotation.
