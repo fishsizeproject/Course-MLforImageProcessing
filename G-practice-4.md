@@ -20,7 +20,9 @@ Framework step 6:
 
 From a practical point of view, transferring information from a previously learned task (previously trained model) for the learning of new tasks (new models) has the potential to significantly improve efficiency of the learning process.
 
-![transferlearning](./images/transfer_learning.png) <br/>
+![transferlearning](./images/transfer_learning.png) 
+
+<br/>
 
 The key general challenge with machine learning is that we can only know how well our model performs when we test it on new data. To address this, we can split our dataset into separate training and test subsets.
 
@@ -44,9 +46,10 @@ If you include all the images in each pass it usually takes only a few epochs to
 
 **Batch size**: refers to the total number of training examples (photos, in our case) present in a single batch.
 
-For example if we have 1000 images in our training dataset we can divide it into batches of 500 then it will take 2 **iterations** to complete 1 epoch.
+**Interations**: corresponds to the number of batches required to complete one epoch. 
 
-**Catarina, the distinction between epochs and iterations is not clear. I can see that I made some edits in the notebook G that might have been incorrect. Iteration is not defined here**
+For example if we have 1000 images in our training dataset we can divide it into batches of 500 then it will take 2 iterations to complete 1 epoch.
+
 
 <br/>
 
@@ -60,9 +63,12 @@ One evidence that we are likely overfitting is if our model does much better on 
 
 <br/>
 
-You can access the notebook of this practice here:
+You can access the notebook of this practice here (printscreen below):
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YgIrWWiaex8ObtAbAJOAXlRRGUbElkYj?usp=sharing)
+
+
+![printscreen](./images/notebook_printscreen_practice4.png)
 
 <br/>
 
