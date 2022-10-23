@@ -16,9 +16,8 @@ In this course we will perform data augmentation on our images and save the new 
 
 In this framework we use the open source [Albumentations library](https://albumentations.ai/) for data augmentation. We will first use the function `A.Compose()` from the Albumentations library to define image transformations (for example vertical flips) and then loop over all images in a directory to apply these transformations and save the new images.
 
-Here are **two types** of transformations available in the library (you can find the full list [here](https://albumentations.ai/docs/getting_started/transforms_and_targets/)):
+Here are two examples of the multiple types of transformations available in the library (you can find the full list [here](https://albumentations.ai/docs/getting_started/transforms_and_targets/)):
 
-**Catarina, why only two types? There are flips, rotations and so on. Maybe you meant - multiple types of transformations?**
 
 ![framework](./images/example_augmentations.png)
 
