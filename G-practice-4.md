@@ -81,7 +81,8 @@ Where TP = True Positives, TN = True Negatives, FP = False Positives, and FN = F
 
 In supervised learning, the mathematical functions that measure how a machine learning model diverges from the truth is called _loss functions_ or _cost functions_. In more general terms, cost functions measure the amount of ‘disagreement’ between the obtained and ideal outputs.
 
-Just for reference, and this is a very rough generalisation, a loss value >1 means that the model is diverging too much from the truth and value of < 0.3 is great.
+The most common loss function used in classification problems is the **cross-entropy loss** also known as **log-loss**. The values decrease as the predicted probability converges to the actual label. It measures the performance of a classification model whose predicted output is a probability value between 0 and 1.
+
 
 <br/>
 
@@ -97,4 +98,7 @@ You can access the notebook of this practice here (printscreen below):
 ## Resources
 
 [Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow 2.0](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron — O’Reilly. You can also access the open-sourced code from this book [here](https://github.com/ageron/handson-ml2).
+
+
+ Janocha & Czarnecki (2017) [On Loss Functions for Deep Neural Networks in Classification](https://arxiv.org/abs/1702.05659). arxiv
 
