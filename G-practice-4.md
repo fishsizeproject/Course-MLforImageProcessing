@@ -8,9 +8,12 @@ layout: default
 
 Framework step 6:
 
-![framework](./images/framework_step6.png) <br/>
+![framework](./images/framework_step6.png) 
 
-<br/> For this practice you need to be familiar with a few concepts that we have not introduced yet.
+<br/>
+
+
+For this practice you need to be familiar with a few concepts that we have not introduced yet.
 
 <br/>
 
@@ -59,7 +62,21 @@ In mathematical terms, overfitting can be defined as an analysis that correspond
 
 One evidence that we are likely overfitting is if our model does much better on the training set than on the test set. You will learn more about this once you complete the workflow in the notebook below.
 
-<add image>
+
+<br/>
+
+## Accuracy 
+
+Accuracy is a metric used to assess the performance of a model. In simple words, accuracy is the fraction of predictions our model got right. It corresponds to the number of classifications a model correctly predicts divided by the total number of predictions made.
+
+![accuracy](./images/accuracy_formula.png) <br/>
+
+
+## Loss function
+
+In supervised learning, the mathematical functions that measure how a machine learning model diverges from the truth is called _loss functions_ or _cost functions_. In more general terms, cost functions measure the amount of ‘disagreement’ between the obtained and ideal outputs.
+
+Just for reference, and this is a very rough generalisation, a loss value >1 means that the model is diverging too much from the truth and value of < 0.3 is great.
 
 <br/>
 
