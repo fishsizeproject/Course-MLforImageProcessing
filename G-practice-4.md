@@ -69,7 +69,9 @@ One evidence that we are likely overfitting is if our model does much better on 
 
 Accuracy is a metric used to assess the performance of a model. In simple words, accuracy is the fraction of predictions our model got right. It corresponds to the number of classifications a model correctly predicts divided by the total number of predictions made.
 
-![accuracy](./images/accuracy_formula.png) <br/>
+<p align="center">
+<img src="./images/accuracy_formula.png" width="300"/>
+</p>
 
 
 ## Loss function
