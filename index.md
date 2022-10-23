@@ -78,3 +78,11 @@ These meetings will be recorded and videos will be available immediately after t
 
 This course is organised as a part of the [“Sustainable inland fisheries”](https://en.sif.lt/home%20--%20EN/) project, funded by the European Regional Development Fund (project No 01.2.2-LMT-K-718-02-0006) under grant agreement with the Research Council of Lithuania (LMTLT).
 
+<br/>
+
+<center>
+Pew Fellows Program in Marine Conservation at
+
+**The Pew Charitable Trusts**
+</center> 
+ 
