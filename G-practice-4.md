@@ -67,12 +67,15 @@ One evidence that we are likely overfitting is if our model does much better on 
 
 ## Accuracy 
 
-Accuracy is a metric used to assess the performance of a model. In simple words, accuracy is the fraction of predictions our model got right. It corresponds to the number of classifications a model correctly predicts divided by the total number of predictions made.
+Accuracy is a metric used to assess the performance of a model. In simple words, accuracy is the fraction of predictions our model got right. It corresponds to the number of classifications a model correctly predicts divided by the total number of predictions made. For a binary classification (with two classes only), accuracy can be calculated as follows:
 
 <p align="center">
 <img src="./images/accuracy_formula.png" width="300"/>
 </p>
 
+Where TP = True Positives, TN = True Negatives, FP = False Positives, and FN = False Negatives.
+
+<br/>
 
 ## Loss function
 
