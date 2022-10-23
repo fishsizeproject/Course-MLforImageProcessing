@@ -22,8 +22,6 @@ From a practical point of view, transferring information from a previously learn
 
 ![transferlearning](./images/transfer_learning.png) <br/>
 
-**Catarina, the picture above is good but the schemes for pre-trained model and our model are identical. It might be good to modify something a bit so it is more visually obvious that the model was updated**
-
 The key general challenge with machine learning is that we can only know how well our model performs when we test it on new data. To address this, we can split our dataset into separate training and test subsets.
 
 **Training dataset** refers to images used to fit or train the model.
