@@ -95,3 +95,6 @@ You can access the notebook of this practice here (printscreen below):
 <br/>
 
 ## Resources
+
+[Hands-on Machine Learning with Scikit-Learn, Keras and Tensorflow 2.0](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurelien Geron — O’Reilly. You can also access the open-sourced code from this book [here](https://github.com/ageron/handson-ml2).
+
