@@ -83,6 +83,9 @@ This course is organised as a part of the [“Sustainable inland fisheries”](h
 <center>
 Pew Fellows Program in Marine Conservation at
 
-**The Pew Charitable Trusts**
+<b>
+The Pew Charitable Trusts
+</b>
+
 </center> 
  
