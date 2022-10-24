@@ -41,9 +41,9 @@ E. [Practice 2: Images pre-annotation and annotation](E-practice-2.md)
 
 F. [Practice 3: Data augmentation](F-practice-3.md)
 
-G. Practice 4: Model training
+G. [Practice 4: Model training](G-practice-4.md)
 
-H. Conclusion
+H. Ideas for the future (will be released after the course)
 
 <br/>
 
@@ -69,8 +69,8 @@ These meetings will be recorded and videos will be available immediately after t
 | Date  | Time (GMT+1) | Programme |
 | ------------- | ------------- |----|
 | 25 Oct, 2022  | 09:00  | Welcome and introductions, overview of modules A-D, Q&As|
-| 26 Oct, 2022  | 12:00  | Q&As, overview of modules E-H
-| 27 Oct, 2022  | 15:00  | Q&As, presentation of trained models and future directions
+| 26 Oct, 2022  | 12:00  | Q&As, overview of modules E-F
+| 27 Oct, 2022  | 15:00  | Q&As, overview of module G, presentation of trained models and future directions
 
 <br/>
 
