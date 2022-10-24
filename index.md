@@ -37,9 +37,9 @@ C. [Intro Practice: Basics of computer vision with Python](C-intro-practice.md)
 
 D. Practice 1: Pre-processing images
 
-E. Practice 2: Images pre-annotation and annotation
+E. [Practice 2: Images pre-annotation and annotation](E-practice-2.md)
 
-F. Practice 3: Data augmentation
+F. [Practice 3: Data augmentation](F-practice-3.md)
 
 G. Practice 4: Model training
 
@@ -78,3 +78,11 @@ These meetings will be recorded and videos will be available immediately after t
 
 This course is organised as a part of the [“Sustainable inland fisheries”](https://en.sif.lt/home%20--%20EN/) project, funded by the European Regional Development Fund (project No 01.2.2-LMT-K-718-02-0006) under grant agreement with the Research Council of Lithuania (LMTLT).
 
+<br/>
+
+<center>
+Pew Fellows Program in Marine Conservation at
+
+**The Pew Charitable Trusts**
+</center> 
+ 
