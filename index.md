@@ -77,11 +77,13 @@ These meetings will be recorded and videos will be available (below) immediately
 ## Meeting 1
 
 <a href="https://youtu.be/IBS0rmMxPRQ">
-    <img alt="Qries" src="./images/video_thumbnail.png"
+    <img alt="Qries" src="./images/video_thumbnail1.png"
     width="350">
 </a>
 
       
+<br/>
+
 <br/>
 
 ![logos](./images/logos_all.png)
