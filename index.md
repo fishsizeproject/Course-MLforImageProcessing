@@ -76,15 +76,8 @@ These meetings will be recorded and videos will be available (below) immediately
 
 ## Meeting 1
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/IBS0rmMxPRQ"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](./images/video_thumbnail.png)](https://youtu.be/IBS0rmMxPRQ)
+
 
 <br/>
 
