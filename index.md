@@ -64,13 +64,27 @@ It would be very interesting and exciting if course participants also bring thei
 
 In this course, it is expected that participants will mostly learn independently, but we will have three online meetings to go through the materials, ask questions and for general discussion. 
 
-These meetings will be recorded and videos will be available immediately after the meeting.
+These meetings will be recorded and videos will be available (below) immediately after the meeting.
 
 | Date  | Time (GMT+1) | Programme |
 | ------------- | ------------- |----|
 | 25 Oct, 2022  | 09:00  | Welcome and introductions, overview of modules A-D, Q&As|
 | 26 Oct, 2022  | 12:00  | Q&As, overview of modules E-F
 | 27 Oct, 2022  | 15:00  | Q&As, overview of module G, presentation of trained models and future directions
+
+<br/>
+
+## Meeting 1
+
+<iframe
+    width="640"
+    height="480"
+    src="https://youtu.be/IBS0rmMxPRQ"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 <br/>
 
