@@ -84,6 +84,16 @@ These meetings will be recorded and videos will be available (below) immediately
       
 <br/>
 
+## Meeting 2
+
+<a href="https://youtu.be/f9XE4dTAlu0">
+    <img alt="Qries" src="./images/video_thumbnail2.png"
+    width="350">
+</a>
+
+
+      
+<br/>
 <br/>
 
 ![logos](./images/logos_all.png)
