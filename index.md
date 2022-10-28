@@ -91,7 +91,14 @@ These meetings will be recorded and videos will be available (below) immediately
     width="350">
 </a>
 
+<br/>
 
+## Meeting 3
+
+<a href="https://youtu.be/gIm1fdNlC5g">
+    <img alt="Qries" src="./images/video_thumbnail3.png"
+    width="350">
+</a>
       
 <br/>
 <br/>
